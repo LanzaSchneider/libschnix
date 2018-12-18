@@ -1,0 +1,6 @@
+#ifndef LIBSCHNIX_JOYPAD
+#define LIBSCHNIX_JOYPAD
+
+
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef LIBSCHNIX_KEYBOARD
+#define LIBSCHNIX_KEYBOARD
+
+
+
+#endif
